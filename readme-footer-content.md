@@ -6,7 +6,7 @@ I love running, teaching, watching TV series, listening to podcasts, Apple devic
 
 ## How to create a notebook like this
 
-For the last ten years or so I have used several blogging solutions: Blogger, WordPress, Octopress, Jekyll, Blogdown and even custom sites manually crafted using ASP (back in 2007), PHP (some years later), plain static HTML files (at different times)... None of those were really what I wanted to use as I have always been looking for a system with these characteristics:
+For the last fifteen years or so I have used several blogging solutions: Blogger, WordPress, Octopress, Jekyll, Blogdown and even custom sites manually crafted using ASP (back in 2003), PHP (some years later), plain static HTML files (at different times)... None of those were what I really wanted to use, as I have always been looking for a system with these characteristics:
 
 * __It has to be extremely easy to use__. When I am to add some content I do not want to run any command or use any template and follow some rigid rules. This way, if I stay away from my notebook for some time, I still will remember how to add some content when I get back. 
 * __It has to be magic-free__. If I have to install gems, dependency managers, clone some repository, go find where to add my content, run more commands... I will simply get bored and stop keeping my notebook up to date.
