@@ -79,7 +79,7 @@ For the last ten years or so I have used several blogging solutions: Blogger, Wo
 * __It has to be magic-free__. If I have to install gems, dependency managers, clone some repository, go find where to add my content, run more commands... I will simply get bored and stop keeping my notebook up to date.
 * __It has to use a really basic technology stack__, so that I do not feel I am even running any software but just creating files the same way I would do otherwise. Markdown and (basic) Git seem like a reasonable choice.
 
-So I decided to create this system myself. I call it BlogGit, as it kind of resembles a blogging system and is totally based on Git. [Feel free to use it](https://github.com/almata/BlogGit).
+So I decided to create this system myself. I call it [BlogGit](https://github.com/almata/BlogGit), as it kind of resembles a blogging system and is totally based on Git. [Feel free to use it to create your own notebook](https://github.com/almata/BlogGit).
 
 ## License
 
