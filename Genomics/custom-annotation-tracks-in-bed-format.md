@@ -43,4 +43,6 @@ chr2 80529002 80531487 gene2a 1 - 80529375 80530944 0 2 2001,211 0,2274
 chr2 80529002 80531487 gene2b 1 - 80529375 80530944 0 2 2001,211 0,2274
 ```
 
-And [this is how these custom tracks look](custom-annotation-tracks-in-bed-format.pdf) in the [UCSC Genome Browser](http://genome.cse.ucsc.edu/cgi-bin/hgGateway).
+And this is how these custom tracks look in the [UCSC Genome Browser](http://genome.cse.ucsc.edu/cgi-bin/hgGateway).
+
+![BED format](custom-annotation-tracks-in-bed-format.png)
