@@ -64,4 +64,4 @@ chr21	fgenesh	exon	45113071	45113264	.	+	2	GEN
 
 And this is how these custom tracks look in the [UCSC Genome Browser](http://genome.cse.ucsc.edu/cgi-bin/hgGateway).
 
-![GFF format](custom-annotation-tracks-in-gff-format)
+![GFF format](custom-annotation-tracks-in-gff-format.png)

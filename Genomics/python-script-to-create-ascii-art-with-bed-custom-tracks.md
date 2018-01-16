@@ -4,7 +4,7 @@ I've just published a new repo with a really silly Python 3.6 script to convert 
 
 🔗 https://github.com/almata/Gentext
 
-And this is how the script works:
+This is how the script works:
 
 ```bash
 $ ./gentext.py -txt="PYTHON"
@@ -19,5 +19,7 @@ chr2 80529003 80534954 Gentext 0 + 0 0 0  11 1,300,200,100,350,100,100,100,100,1
 chr2 80529003 80534954 Gentext 0 + 0 0 0  13 1,100,100,100,100,100,100,100,100,100,200,100,1 0,1500,1750,2000,2200,2600,2950,3200,3400,3700,3900,4250,5950
 chr2 80529003 80534954 Gentext 0 + 0 0 0  11 1,300,100,100,400,100,100,300,150,100,1 0,1500,1950,2250,2450,2950,3200,3450,3900,4250,5950
 ```
+
+And adding these custom tracks in the [UCSC Genome Browser](http://genome.cse.ucsc.edu/cgi-bin/hgGateway):
 
 ![Gentext in action](python-script-to-create-ascii-art-with-bed-custom-tracks.png)
