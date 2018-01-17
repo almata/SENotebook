@@ -38,3 +38,6 @@ _Some truncated content here..._
 ## 2018-01-17 (18:28)
 * A  Bash/understand-and-edit-path-content.md
 
+## 2018-01-17 (18:31)
+* M  Bash/understand-and-edit-path-content.md
+

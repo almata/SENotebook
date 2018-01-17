@@ -27,7 +27,7 @@ $ cat 40-XQuartz
 /opt/X11/bin
 ```
 
-So, basically, if we want to add a new path to `$PATH` so the system looks for binaries there we can either:
+So, in short, if we want to add a new path to `$PATH` so the system looks for binaries there we can either:
 
 * Edit the `~/.bash_profile` to add a new `export` line (if we need to generate the `$PATH` variable for a single user account), or...
-* We can add a new file to `/etc/paths.d` directory (if we want to generate the `$PATH` variable for all user accounts on the system).
+* Add a new file to `/etc/paths.d` directory (if we want to generate the `$PATH` variable for all user accounts on the system).
