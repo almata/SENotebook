@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__30 notes so far. Last added:__ [Create a C program from a curl command](Bash/create-a-c-program-from-a-curl-command.md)
+__36 notes so far. Last added:__ [FunProg week 7: Lazy evaluation](Scala/funprog-week-7-lazy-evaluation.md)
 
 ## Categories
 
@@ -68,7 +68,13 @@ __30 notes so far. Last added:__ [Create a C program from a curl command](Bash/c
 
 ## Scala
 
-* [Notes on Functional Programming Principles in Scala MOOC](Scala/notes-on-functional-programming-principles-in-scala-mooc.md)
+* [FunProg week 1: Functions & evaluations](Scala/funprog-week-1-functions-evaluations.md)
+* [FunProg week 2: Higher order functions](Scala/funprog-week-2-higher-order-functions.md)
+* [FunProg week 3: Data & abstraction](Scala/funprog-week-3-data-abstraction.md)
+* [FunProg week 4: Types & pattern matching](Scala/funprog-week-4-types-pattern-matching.md)
+* [FunProg week 5: Lists](Scala/funprog-week-5-lists.md)
+* [FunProg week 6: Collections](Scala/funprog-week-6-collections.md)
+* [FunProg week 7: Lazy evaluation](Scala/funprog-week-7-lazy-evaluation.md)
 
 ## About me
 

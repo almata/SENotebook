@@ -25,3 +25,13 @@ _Some truncated content here..._
 ## 2018-01-17 (16:36)
 * M  Bash/create-a-c-program-from-a-curl-command.md
 
+## 2018-01-17 (18:01)
+* A  Scala/funprog-week-1-functions-evaluations.md
+* A  Scala/funprog-week-2-higher-order-functions.md
+* A  Scala/funprog-week-3-data-abstraction.md
+* A  Scala/funprog-week-4-types-pattern-matching.md
+* A  Scala/funprog-week-5-lists.md
+* A  Scala/funprog-week-6-collections.md
+* A  Scala/funprog-week-7-lazy-evaluation.md
+* D  Scala/notes-on-functional-programming-principles-in-scala-mooc.md
+
