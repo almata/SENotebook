@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__37 notes so far. Last added:__ [Understand and edit $PATH content](Bash/understand-and-edit-path-content.md)
+__38 notes so far. Last added:__ [Create an alias](Bash/create-an-alias.md)
 
 ## Categories
 
@@ -23,6 +23,7 @@ __37 notes so far. Last added:__ [Understand and edit $PATH content](Bash/unders
 ## Bash
 
 * [Create a C program from a curl command](Bash/create-a-c-program-from-a-curl-command.md)
+* [Create an alias](Bash/create-an-alias.md)
 * [Understand and edit $PATH content](Bash/understand-and-edit-path-content.md)
 
 ## C
