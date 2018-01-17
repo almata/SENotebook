@@ -35,3 +35,6 @@ _Some truncated content here..._
 * A  Scala/funprog-week-7-lazy-evaluation.md
 * D  Scala/notes-on-functional-programming-principles-in-scala-mooc.md
 
+## 2018-01-17 (18:28)
+* A  Bash/understand-and-edit-path-content.md
+

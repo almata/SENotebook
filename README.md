@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__36 notes so far. Last added:__ [FunProg week 7: Lazy evaluation](Scala/funprog-week-7-lazy-evaluation.md)
+__37 notes so far. Last added:__ [Understand and edit $PATH content](Bash/understand-and-edit-path-content.md)
 
 ## Categories
 
@@ -23,6 +23,7 @@ __36 notes so far. Last added:__ [FunProg week 7: Lazy evaluation](Scala/funprog
 ## Bash
 
 * [Create a C program from a curl command](Bash/create-a-c-program-from-a-curl-command.md)
+* [Understand and edit $PATH content](Bash/understand-and-edit-path-content.md)
 
 ## C
 
