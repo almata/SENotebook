@@ -7,10 +7,11 @@ When you have been working with different technologies and programming languages
 
 
 
-__29 notes so far. Last added:__ [Python script to create ASCII art with BED custom tracks](Genomics/python-script-to-create-ascii-art-with-bed-custom-tracks.md)
+__30 notes so far. Last added:__ [Create a C program from a curl command](Bash/create-a-c-program-from-a-curl-command.md)
 
 ## Categories
 
+* [Bash](#bash)
 * [C](#c)
 * [Genomics](#genomics)
 * [iOS](#ios)
@@ -18,6 +19,10 @@ __29 notes so far. Last added:__ [Python script to create ASCII art with BED cus
 * [Objective-C](#objective-c)
 * [Ruby](#ruby)
 * [Scala](#scala)
+
+## Bash
+
+* [Create a C program from a curl command](Bash/create-a-c-program-from-a-curl-command.md)
 
 ## C
 
