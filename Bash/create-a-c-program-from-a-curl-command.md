@@ -13,7 +13,7 @@ Copyright (c) 2018 Albert Mata
 What's awesome and not so well known is that we can create a C program from a `curl` command:
 
 ```bash
-curl https://raw.githubusercontent.com/almata/SENotebook/master/LICENSE --libcurl license.c
+$ curl https://raw.githubusercontent.com/almata/SENotebook/master/LICENSE --libcurl license.c
 ```
 
 This will create a `license.c` file with this content (comments removed):
