@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__39 notes so far. Last added:__ [Manage different Python versions with Anaconda](Python/manage-different-python-versions-with-anaconda.md)
+__40 notes so far. Last added:__ [Install MIT Scheme on Mac](Scheme/install-mit-scheme-on-mac.md)
 
 ## Categories
 
@@ -20,6 +20,7 @@ __39 notes so far. Last added:__ [Manage different Python versions with Anaconda
 * [Python](#python)
 * [Ruby](#ruby)
 * [Scala](#scala)
+* [Scheme](#scheme)
 
 ## Bash
 
@@ -82,6 +83,10 @@ __39 notes so far. Last added:__ [Manage different Python versions with Anaconda
 * [FunProg week 5: Lists](Scala/funprog-week-5-lists.md)
 * [FunProg week 6: Collections](Scala/funprog-week-6-collections.md)
 * [FunProg week 7: Lazy evaluation](Scala/funprog-week-7-lazy-evaluation.md)
+
+## Scheme
+
+* [Install MIT Scheme on Mac](Scheme/install-mit-scheme-on-mac.md)
 
 ## About me
 

@@ -63,7 +63,7 @@ Python 3.6.2 |Continuum Analytics, Inc.| (default, Jul 20 2017, 13:14:59)
 [GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)] on darwin
 ```
 
-Although if I just want to use Python 3.6 by default all I have to do is `source activate` that environment and the prompt will change to show me I'm using an Anaconda environment from now on (I can deactivate it with `source deactivate` if required):
+Although if I just want to use Python 3.6 by default all I have to do is `source activate` that environment and the prompt will change to show I'm using an Anaconda environment from now on (I can deactivate it with `source deactivate` if required):
 
 ```bash
 $ source activate python36

@@ -51,3 +51,7 @@ _Some truncated content here..._
 ## 2018-01-18 (11:26)
 * M  Python/manage-different-python-versions-with-anaconda.md
 
+## 2018-01-18 (20:12)
+* M  Python/manage-different-python-versions-with-anaconda.md
+* A  Scheme/install-mit-scheme-on-mac.md
+
