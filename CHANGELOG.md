@@ -44,3 +44,7 @@ _Some truncated content here..._
 ## 2018-01-17 (18:48)
 * A  Bash/create-an-alias.md
 
+## 2018-01-18 (11:24)
+* M  Bash/create-an-alias.md
+* A  Python/manage-different-python-versions-with-anaconda.md
+

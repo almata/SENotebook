@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__38 notes so far. Last added:__ [Create an alias](Bash/create-an-alias.md)
+__39 notes so far. Last added:__ [Manage different Python versions with Anaconda](Python/manage-different-python-versions-with-anaconda.md)
 
 ## Categories
 
@@ -17,6 +17,7 @@ __38 notes so far. Last added:__ [Create an alias](Bash/create-an-alias.md)
 * [iOS](#ios)
 * [Literature](#literature)
 * [Objective-C](#objective-c)
+* [Python](#python)
 * [Ruby](#ruby)
 * [Scala](#scala)
 
@@ -63,6 +64,10 @@ __38 notes so far. Last added:__ [Create an alias](Bash/create-an-alias.md)
 * [NS\_ENUM and NS\_OPTIONS](Objective-C/ns_enum-and-ns-options.md)
 * [Stack blocks vs heap blocks](Objective-C/stack-blocks-vs-heap-blocks.md)
 * [Warnings in Xcode](Objective-C/warnings-in-xcode.md)
+
+## Python
+
+* [Manage different Python versions with Anaconda](Python/manage-different-python-versions-with-anaconda.md)
 
 ## Ruby
 

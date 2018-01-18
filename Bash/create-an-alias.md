@@ -1,6 +1,6 @@
 # Create an alias
 
-We create aliases with the `alias` command and store them in the `~/.profile` file. For instance, this is one I like to have in my machines:
+We create aliases with the `alias` command and store them in the `~/.profile` file. For instance, this is one I like to have on my machines:
 
 ```bash
 $ cat ~/.profile
