@@ -31,7 +31,7 @@ $ cd /usr/bin
 $ ./python
 Python 2.7.10 (default, Feb  7 2017, 00:08:15) 
 [GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.34)] on darwin
-``
+```
 
 ## Anaconda
 
