@@ -55,3 +55,6 @@ _Some truncated content here..._
 * M  Python/manage-different-python-versions-with-anaconda.md
 * A  Scheme/install-mit-scheme-on-mac.md
 
+## 2018-01-23 (14:39)
+* M  Genomics/needleman-wunsch-algorithm-in-swift.md
+

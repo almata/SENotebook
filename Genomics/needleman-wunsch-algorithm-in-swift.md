@@ -1,5 +1,7 @@
 # Needleman−Wunsch algorithm in Swift
 
+__Update__: I've finally used this implementation in Swift as the first step to create a very simple iOS app to test how the Needleman−Wunsch algorithm works. More details can be found [in this repo](https://github.com/almata/NeedlemanWunsch).
+
 ```swift
 import Foundation
 
