@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__40 notes so far. Last added:__ [Needleman−Wunsch algorithm in Swift](Genomics/needleman-wunsch-algorithm-in-swift.md)
+__41 notes so far. Last added:__ [Edit `hosts` file to block some websites](Unix/edit-hosts-file-to-block-some-websites.md)
 
 ## Categories
 
@@ -21,6 +21,7 @@ __40 notes so far. Last added:__ [Needleman−Wunsch algorithm in Swift](Genomic
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [Scheme](#scheme)
+* [Unix](#unix)
 
 ## Bash
 
@@ -87,6 +88,10 @@ __40 notes so far. Last added:__ [Needleman−Wunsch algorithm in Swift](Genomic
 ## Scheme
 
 * [Install MIT Scheme on Mac](Scheme/install-mit-scheme-on-mac.md)
+
+## Unix
+
+* [Edit `hosts` file to block some websites](Unix/edit-hosts-file-to-block-some-websites.md)
 
 ## About me
 
