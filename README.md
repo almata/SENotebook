@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__41 notes so far. Last added:__ [Edit `hosts` file to block some websites](Unix/edit-hosts-file-to-block-some-websites.md)
+__41 notes so far. Last added:__ [Edit hosts file to block some websites](Unix/edit-hosts-file-to-block-some-websites.md)
 
 ## Categories
 
@@ -91,7 +91,7 @@ __41 notes so far. Last added:__ [Edit `hosts` file to block some websites](Unix
 
 ## Unix
 
-* [Edit `hosts` file to block some websites](Unix/edit-hosts-file-to-block-some-websites.md)
+* [Edit hosts file to block some websites](Unix/edit-hosts-file-to-block-some-websites.md)
 
 ## About me
 

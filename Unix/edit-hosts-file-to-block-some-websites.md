@@ -1,4 +1,4 @@
-# Edit `hosts` file to block some websites
+# Edit hosts file to block some websites
 
 Say I want to stop checking Twitter so often. One radical way to do it is by editing `/etc/hosts` file to add some entries. For instance mine had this content:
 
