@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__41 notes so far. Last added:__ [Edit hosts file to block some websites](Unix/edit-hosts-file-to-block-some-websites.md)
+__42 notes so far. Last added:__ [Get element's position in array given a key-value pair](JavaScript/get-elements-position-in-array-given-a-key-value-pair.md)
 
 ## Categories
 
@@ -15,6 +15,7 @@ __41 notes so far. Last added:__ [Edit hosts file to block some websites](Unix/e
 * [C](#c)
 * [Genomics](#genomics)
 * [iOS](#ios)
+* [JavaScript](#javascript)
 * [Literature](#literature)
 * [Objective-C](#objective-c)
 * [Python](#python)
@@ -44,6 +45,10 @@ __41 notes so far. Last added:__ [Edit hosts file to block some websites](Unix/e
 
 * [Create a CocoaPod](iOS/create-a-cocoapod.md)
 * [Entity inheritance in Core Data](iOS/entity-inheritance-in-core-data.md)
+
+## JavaScript
+
+* [Get element's position in array given a key-value pair](JavaScript/get-elements-position-in-array-given-a-key-value-pair.md)
 
 ## Literature
 
