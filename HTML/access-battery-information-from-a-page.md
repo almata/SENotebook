@@ -1,6 +1,6 @@
 # Access battery information from a page
 
-Although not commo, in some specific scenarios it can be useful to know if the battery level is going too low. We can get this information this way:
+Although not common, in some specific scenarios it can be useful to know if the battery level is going too low. We can get this information this way:
 
 ```javascript
 navigator.getBattery().then((battery) => {

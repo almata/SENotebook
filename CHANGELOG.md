@@ -72,3 +72,6 @@ _Some truncated content here..._
 * A  HTML/check-if-there-is-a-network-connection-available-or-not.md
 * A  HTML/tell-whether-the-page-is-currently-visible-or-not.md
 
+## 2018-02-12 (15:29)
+* M  HTML/access-battery-information-from-a-page.md
+
