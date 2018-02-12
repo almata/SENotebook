@@ -67,3 +67,8 @@ _Some truncated content here..._
 ## 2018-02-09 (17:35)
 * A  JavaScript/get-elements-position-in-array-given-a-key-value-pair.md
 
+## 2018-02-12 (15:27)
+* A  HTML/access-battery-information-from-a-page.md
+* A  HTML/check-if-there-is-a-network-connection-available-or-not.md
+* A  HTML/tell-whether-the-page-is-currently-visible-or-not.md
+

@@ -7,13 +7,14 @@ When you have been working with different technologies and programming languages
 
 
 
-__42 notes so far. Last added:__ [Get element's position in array given a key-value pair](JavaScript/get-elements-position-in-array-given-a-key-value-pair.md)
+__45 notes so far. Last added:__ [Access battery information from a page](HTML/access-battery-information-from-a-page.md)
 
 ## Categories
 
 * [Bash](#bash)
 * [C](#c)
 * [Genomics](#genomics)
+* [HTML](#html)
 * [iOS](#ios)
 * [JavaScript](#javascript)
 * [Literature](#literature)
@@ -40,6 +41,12 @@ __42 notes so far. Last added:__ [Get element's position in array given a key-va
 * [Custom annotation tracks in GFF format](Genomics/custom-annotation-tracks-in-gff-format.md)
 * [Needleman−Wunsch algorithm in Swift](Genomics/needleman-wunsch-algorithm-in-swift.md)
 * [Python script to create ASCII art with BED custom tracks](Genomics/python-script-to-create-ascii-art-with-bed-custom-tracks.md)
+
+## HTML
+
+* [Access battery information from a page](HTML/access-battery-information-from-a-page.md)
+* [Check if there is a network connection available or not](HTML/check-if-there-is-a-network-connection-available-or-not.md)
+* [Tell whether the page is currently visible or not](HTML/tell-whether-the-page-is-currently-visible-or-not.md)
 
 ## iOS
 
