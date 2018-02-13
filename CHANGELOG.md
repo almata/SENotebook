@@ -78,3 +78,7 @@ _Some truncated content here..._
 ## 2018-02-13 (12:26)
 * A  Android/run-avd-emulator-without-running-android-studio.md
 
+## 2018-02-13 (16:46)
+* M  Android/run-avd-emulator-without-running-android-studio.md
+* A  ReactNative/run-app-on-ios-simulator-and-android-emulator-at-same-time.md
+

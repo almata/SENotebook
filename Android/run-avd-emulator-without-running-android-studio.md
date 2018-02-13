@@ -40,4 +40,4 @@ All we need now is the name of the emulator we want to run in order to execute t
 $ ~/Library/Android/sdk/tools/emulator -avd Nexus_4_API_25
 ```
 
-__Please note the exact path to the `tools` directory can be slightly different based on your original Android Studio installation.__
+Please note the exact path to the `tools` directory can be slightly different based on your original Android Studio installation.

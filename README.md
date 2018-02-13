@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__46 notes so far. Last added:__ [Run AVD emulator without running Android Studio](Android/run-avd-emulator-without-running-android-studio.md)
+__47 notes so far. Last added:__ [Run app on iOS simulator and Android emulator at same time](ReactNative/run-app-on-ios-simulator-and-android-emulator-at-same-time.md)
 
 ## Categories
 
@@ -21,6 +21,7 @@ __46 notes so far. Last added:__ [Run AVD emulator without running Android Studi
 * [Literature](#literature)
 * [Objective-C](#objective-c)
 * [Python](#python)
+* [ReactNative](#reactnative)
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [Scheme](#scheme)
@@ -87,6 +88,10 @@ __46 notes so far. Last added:__ [Run AVD emulator without running Android Studi
 ## Python
 
 * [Manage different Python versions with Anaconda](Python/manage-different-python-versions-with-anaconda.md)
+
+## ReactNative
+
+* [Run app on iOS simulator and Android emulator at same time](ReactNative/run-app-on-ios-simulator-and-android-emulator-at-same-time.md)
 
 ## Ruby
 
