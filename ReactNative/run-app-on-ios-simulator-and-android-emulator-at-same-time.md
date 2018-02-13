@@ -6,7 +6,7 @@ Just as personal documentation, these are the steps I've needed to follow to run
 2. I've also needed to install the React Native CLI with `npm install -g react-native-cli`.
 3. Pretty obvious, I already had both Xcode and Android Studio installed on my Mac. 
 
-__iOS simulator__
+## iOS simulator
 
 4. With `react-native run-ios` I launch the React Packager. Same thing can be done with `npm run ios` provided `package.json` contains a `scripts` section like this:
 
@@ -19,10 +19,10 @@ __iOS simulator__
 }
 ```
 
-5. At this point, the iOS simulator gets opened automatically and loads the app. I can reload it every time after saving changes in the code using ⌘R in the simulator. Or I can show the developer menu with Hardware > Shake Gesture and from there enable the live reload option.
+5. At this point, the iOS simulator gets opened automatically and loads the app. I can reload it every time after saving changes in the code using ⌘R in the simulator. Even better, live reload can be enabled from the developer menu (Hardware > Shake Gesture).
 
-__Android emulator__
+## Android emulator
 
 6. First of all, I need to __manually__ open an Android emulator using `~/Library/Android/sdk/tools/emulator -avd Nexus_4_API_25` (more details about this command at [Run AVD emulator without running Android Studio](https://github.com/almata/SENotebook/blob/master/Android/run-avd-emulator-without-running-android-studio.md)).
 7. With `react-native run-android` I launch the React Packager. Same thing can be done with `npm run android` (again, provided `package.json` contains a `scripts` section as stated above).
-8. At this point, the Android emulator loads the app. I can access the developer menu with ⌘M and enable live reload from there.
+8. At this point, the Android emulator loads the app. Live reload can be enabled from the developer menu (⌘M).
