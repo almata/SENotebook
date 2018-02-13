@@ -75,3 +75,6 @@ _Some truncated content here..._
 ## 2018-02-12 (15:29)
 * M  HTML/access-battery-information-from-a-page.md
 
+## 2018-02-13 (12:26)
+* A  Android/run-avd-emulator-without-running-android-studio.md
+

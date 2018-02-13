@@ -7,10 +7,11 @@ When you have been working with different technologies and programming languages
 
 
 
-__45 notes so far. Last added:__ [Access battery information from a page](HTML/access-battery-information-from-a-page.md)
+__46 notes so far. Last added:__ [Run AVD emulator without running Android Studio](Android/run-avd-emulator-without-running-android-studio.md)
 
 ## Categories
 
+* [Android](#android)
 * [Bash](#bash)
 * [C](#c)
 * [Genomics](#genomics)
@@ -24,6 +25,10 @@ __45 notes so far. Last added:__ [Access battery information from a page](HTML/a
 * [Scala](#scala)
 * [Scheme](#scheme)
 * [Unix](#unix)
+
+## Android
+
+* [Run AVD emulator without running Android Studio](Android/run-avd-emulator-without-running-android-studio.md)
 
 ## Bash
 
