@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__49 notes so far. Last added:__ [Deploy an app from Android Studio](ReactNative/deploy-an-app-from-android-studio.md)
+__50 notes so far. Last added:__ [Set $JAVA_HOME environment variable](Java/set-java-home-environment-variable.md)
 
 ## Categories
 
@@ -18,6 +18,7 @@ __49 notes so far. Last added:__ [Deploy an app from Android Studio](ReactNative
 * [Git](#git)
 * [HTML](#html)
 * [iOS](#ios)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Literature](#literature)
 * [Objective-C](#objective-c)
@@ -63,6 +64,10 @@ __49 notes so far. Last added:__ [Deploy an app from Android Studio](ReactNative
 
 * [Create a CocoaPod](iOS/create-a-cocoapod.md)
 * [Entity inheritance in Core Data](iOS/entity-inheritance-in-core-data.md)
+
+## Java
+
+* [Set $JAVA_HOME environment variable](Java/set-java-home-environment-variable.md)
 
 ## JavaScript
 

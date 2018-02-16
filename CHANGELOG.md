@@ -91,3 +91,6 @@ _Some truncated content here..._
 ## 2018-02-16 (19:02)
 * A  ReactNative/deploy-an-app-from-android-studio.md
 
+## 2018-02-16 (19:56)
+* A  Java/set-java-home-environment-variable.md
+
