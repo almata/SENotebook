@@ -88,3 +88,6 @@ _Some truncated content here..._
 ## 2018-02-16 (11:12)
 * A  Git/add-and-remove-remotes-like-github-bitbucket-and-so-on.md
 
+## 2018-02-16 (19:02)
+* A  ReactNative/deploy-an-app-from-android-studio.md
+

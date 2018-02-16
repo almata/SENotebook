@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__48 notes so far. Last added:__ [Add and remove remotes (like GitHub, Bitbucket and so on)](Git/add-and-remove-remotes-like-github-bitbucket-and-so-on.md)
+__49 notes so far. Last added:__ [Deploy an app from Android Studio](ReactNative/deploy-an-app-from-android-studio.md)
 
 ## Categories
 
@@ -96,6 +96,7 @@ __48 notes so far. Last added:__ [Add and remove remotes (like GitHub, Bitbucket
 
 ## ReactNative
 
+* [Deploy an app from Android Studio](ReactNative/deploy-an-app-from-android-studio.md)
 * [Run app on iOS simulator and Android emulator at same time](ReactNative/run-app-on-ios-simulator-and-android-emulator-at-same-time.md)
 
 ## Ruby
