@@ -85,3 +85,6 @@ _Some truncated content here..._
 ## 2018-02-13 (16:49)
 * M  ReactNative/run-app-on-ios-simulator-and-android-emulator-at-same-time.md
 
+## 2018-02-16 (11:12)
+* A  Git/add-and-remove-remotes-like-github-bitbucket-and-so-on.md
+

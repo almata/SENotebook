@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__47 notes so far. Last added:__ [Run app on iOS simulator and Android emulator at same time](ReactNative/run-app-on-ios-simulator-and-android-emulator-at-same-time.md)
+__48 notes so far. Last added:__ [Add and remove remotes (like GitHub, Bitbucket and so on)](Git/add-and-remove-remotes-like-github-bitbucket-and-so-on.md)
 
 ## Categories
 
@@ -15,6 +15,7 @@ __47 notes so far. Last added:__ [Run app on iOS simulator and Android emulator 
 * [Bash](#bash)
 * [C](#c)
 * [Genomics](#genomics)
+* [Git](#git)
 * [HTML](#html)
 * [iOS](#ios)
 * [JavaScript](#javascript)
@@ -47,6 +48,10 @@ __47 notes so far. Last added:__ [Run app on iOS simulator and Android emulator 
 * [Custom annotation tracks in GFF format](Genomics/custom-annotation-tracks-in-gff-format.md)
 * [Needleman−Wunsch algorithm in Swift](Genomics/needleman-wunsch-algorithm-in-swift.md)
 * [Python script to create ASCII art with BED custom tracks](Genomics/python-script-to-create-ascii-art-with-bed-custom-tracks.md)
+
+## Git
+
+* [Add and remove remotes (like GitHub, Bitbucket and so on)](Git/add-and-remove-remotes-like-github-bitbucket-and-so-on.md)
 
 ## HTML
 
