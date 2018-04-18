@@ -1,6 +1,6 @@
 # Set $JAVA_HOME environment variable
 
-Apple recommends to set the `$JAVA_HOME` variable to `/usr/libexec/java_home`, so to set `$JAVA_HOME` environment variable we basically need to add `export JAVA_HOME=$(/usr/libexec/java_home)` as a new line into `~/.bash_profile` and then apply changes with `source ~/.bash_profile`. After that the variable will be set:
+Apple recommends to set the `$JAVA_HOME` variable to `/usr/libexec/java_home`, so to set `$JAVA_HOME` environment variable we basically need to add `export JAVA_HOME=$(/usr/libexec/java_home)` as a new line into `~/.bash_profile` and then apply changes with `source ~/.bash_profile`. After that, the variable will be set:
 
 ```bash
 $ echo $JAVA_HOME

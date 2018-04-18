@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__50 notes so far. Last added:__ [Set $JAVA_HOME environment variable](Java/set-java-home-environment-variable.md)
+__51 notes so far. Last added:__ [Programming principles (SOLID)](Programming/programming-principles-solid.md)
 
 ## Categories
 
@@ -22,6 +22,7 @@ __50 notes so far. Last added:__ [Set $JAVA_HOME environment variable](Java/set-
 * [JavaScript](#javascript)
 * [Literature](#literature)
 * [Objective-C](#objective-c)
+* [Programming](#programming)
 * [Python](#python)
 * [ReactNative](#reactnative)
 * [Ruby](#ruby)
@@ -94,6 +95,10 @@ __50 notes so far. Last added:__ [Set $JAVA_HOME environment variable](Java/set-
 * [NS\_ENUM and NS\_OPTIONS](Objective-C/ns_enum-and-ns-options.md)
 * [Stack blocks vs heap blocks](Objective-C/stack-blocks-vs-heap-blocks.md)
 * [Warnings in Xcode](Objective-C/warnings-in-xcode.md)
+
+## Programming
+
+* [Programming principles (SOLID)](Programming/programming-principles-solid.md)
 
 ## Python
 

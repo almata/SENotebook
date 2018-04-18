@@ -94,3 +94,7 @@ _Some truncated content here..._
 ## 2018-02-16 (19:56)
 * A  Java/set-java-home-environment-variable.md
 
+## 2018-04-18 (11:57)
+* M  Java/set-java-home-environment-variable.md
+* A  Programming/programming-principles-solid.md
+
