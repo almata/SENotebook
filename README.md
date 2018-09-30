@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__54 notes so far. Last added:__ [Select documents: find(), pretty(), count(), distinct() ](JavaScript/select-documents-find-pretty-count-distinct.md)
+__54 notes so far. Last added:__ [Select documents: find(), pretty(), count(), distinct() ](MongoDB/select-documents-find-pretty-count-distinct.md)
 
 ## Categories
 
@@ -74,7 +74,6 @@ __54 notes so far. Last added:__ [Select documents: find(), pretty(), count(), d
 ## JavaScript
 
 * [Get element's position in array given a key-value pair](JavaScript/get-elements-position-in-array-given-a-key-value-pair.md)
-* [Select documents: find(), pretty(), count(), distinct() ](JavaScript/select-documents-find-pretty-count-distinct.md)
 
 ## Literature
 
@@ -88,6 +87,7 @@ __54 notes so far. Last added:__ [Select documents: find(), pretty(), count(), d
 
 * [Delete documents: deleteOne() & deleteMany()](MongoDB/delete-documents-deleteone-deletemany.md)
 * [Insert documents: insertOne() & insertMany()](MongoDB/insert-documents-insertone-insertmany.md)
+* [Select documents: find(), pretty(), count(), distinct() ](MongoDB/select-documents-find-pretty-count-distinct.md)
 
 ## Objective-C
 
