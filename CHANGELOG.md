@@ -98,3 +98,8 @@ _Some truncated content here..._
 * M  Java/set-java-home-environment-variable.md
 * A  Programming/programming-principles-solid.md
 
+## 2018-09-30 (17:25)
+* A  JavaScript/select-documents-find-pretty-count-distinct.md
+* A  MongoDB/delete-documents-deleteone-deletemany.md
+* A  MongoDB/insert-documents-insertone-insertmany.md
+

@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__51 notes so far. Last added:__ [Programming principles (SOLID)](Programming/programming-principles-solid.md)
+__54 notes so far. Last added:__ [Select documents: find(), pretty(), count(), distinct() ](JavaScript/select-documents-find-pretty-count-distinct.md)
 
 ## Categories
 
@@ -21,6 +21,7 @@ __51 notes so far. Last added:__ [Programming principles (SOLID)](Programming/pr
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Literature](#literature)
+* [MongoDB](#mongodb)
 * [Objective-C](#objective-c)
 * [Programming](#programming)
 * [Python](#python)
@@ -73,6 +74,7 @@ __51 notes so far. Last added:__ [Programming principles (SOLID)](Programming/pr
 ## JavaScript
 
 * [Get element's position in array given a key-value pair](JavaScript/get-elements-position-in-array-given-a-key-value-pair.md)
+* [Select documents: find(), pretty(), count(), distinct() ](JavaScript/select-documents-find-pretty-count-distinct.md)
 
 ## Literature
 
@@ -81,6 +83,11 @@ __51 notes so far. Last added:__ [Programming principles (SOLID)](Programming/pr
 * [Quotes from _Coders at work. Reflections on the craft of programming_](Literature/quotes-from-coders-at-work-reflections-on-the-craft-of-programming.md)
 * [Quotes from _Core Data. Data Storage and Management for iOS, OS X, and iCloud_](Literature/quotes-from-core-data-data-storage-and-management-for-ios-osx-and-icloud.md)
 * [Quotes from _Effective Objective-C 2.0_](Literature/quotes-from-effective-objective-c-2.0.md)
+
+## MongoDB
+
+* [Delete documents: deleteOne() & deleteMany()](MongoDB/delete-documents-deleteone-deletemany.md)
+* [Insert documents: insertOne() & insertMany()](MongoDB/insert-documents-insertone-insertmany.md)
 
 ## Objective-C
 
@@ -133,7 +140,7 @@ __51 notes so far. Last added:__ [Programming principles (SOLID)](Programming/pr
 
 ## About me
 
-I am Albert, a Catalan software developer currently living in Barcelona. I started a business career after getting a __Bachelor's in Business Science__ (2002). But soon after I became interested in software development, specifically in business-related applications, and started working as a programmer and went back to college. In 2008 I earned a __Master's in SAP R/3 ERP Consulting__ and some time later, in 2012, a second __Bachelor's in Computer Science__. It's been a long journey full of interesting experiences... and it keeps going, as at this moment I am in the process of getting a second __Master's in Bioinformatics and Biostatistics__ (probably in 2019).
+I am Albert, a Catalan software developer currently living in Barcelona. I started a business career after earning a Bachelor's Degree in Business Studies (2002). But soon after I became interested in software development, specifically in business-related applications, and started working as a programmer and went back to college. In 2008 I earned a Master's Degree in SAP Functional Consulting and some time later, in 2012, a second Bachelor's Degree in Computer Science. It's been a long journey full of interesting experiences... and it keeps going, as at this moment I am in the process of getting a second Master's Degree in Bioinformatics and Biostatistics (probably in 2019).
 
 I love running, teaching, watching TV series, listening to podcasts, Apple devices and, of course, developing software. I have solid skills on database design, object-oriented programming, project management and UI and UX design.
 
