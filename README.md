@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__54 notes so far. Last added:__ [Select documents: find(), pretty(), count(), distinct() ](MongoDB/select-documents-find-pretty-count-distinct.md)
+__55 notes so far. Last added:__ [Update documents: updateOne() & updateMany()](MongoDB/update-documents-updateone-updatemany.md)
 
 ## Categories
 
@@ -88,6 +88,7 @@ __54 notes so far. Last added:__ [Select documents: find(), pretty(), count(), d
 * [Delete documents: deleteOne() & deleteMany()](MongoDB/delete-documents-deleteone-deletemany.md)
 * [Insert documents: insertOne() & insertMany()](MongoDB/insert-documents-insertone-insertmany.md)
 * [Select documents: find(), pretty(), count(), distinct() ](MongoDB/select-documents-find-pretty-count-distinct.md)
+* [Update documents: updateOne() & updateMany()](MongoDB/update-documents-updateone-updatemany.md)
 
 ## Objective-C
 

@@ -103,3 +103,7 @@ _Some truncated content here..._
 * A  MongoDB/delete-documents-deleteone-deletemany.md
 * A  MongoDB/insert-documents-insertone-insertmany.md
 
+## 2018-10-01 (08:30)
+* M  MongoDB/select-documents-find-pretty-count-distinct.md
+* A  MongoDB/update-documents-updateone-updatemany.md
+

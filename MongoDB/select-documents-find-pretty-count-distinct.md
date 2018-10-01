@@ -1,6 +1,6 @@
 # Select documents: find(), pretty(), count(), distinct() 
 
-We use `find()` to get all fields from all documents (and `pretty()` to visually improve the result):
+We use `find()` to get all fields from all documents (and `pretty()` to return data in a format that is easier for humans to parse):
 
 ```javascript
 > db.movies.find().pretty()
