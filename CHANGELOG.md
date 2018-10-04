@@ -107,3 +107,8 @@ _Some truncated content here..._
 * M  MongoDB/select-documents-find-pretty-count-distinct.md
 * A  MongoDB/update-documents-updateone-updatemany.md
 
+## 2018-10-04 (10:12)
+* A  R/improve-font-rendering-in-rstudio-for-mac-1.png
+* A  R/improve-font-rendering-in-rstudio-for-mac-2.png
+* A  R/improve-font-rendering-in-rstudio-for-mac.md
+

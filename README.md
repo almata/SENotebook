@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__55 notes so far. Last added:__ [Update documents: updateOne() & updateMany()](MongoDB/update-documents-updateone-updatemany.md)
+__58 notes so far. Last added:__ [Improve font rendering in RStudio for Mac](R/improve-font-rendering-in-rstudio-for-mac.md)
 
 ## Categories
 
@@ -25,6 +25,7 @@ __55 notes so far. Last added:__ [Update documents: updateOne() & updateMany()](
 * [Objective-C](#objective-c)
 * [Programming](#programming)
 * [Python](#python)
+* [R](#r)
 * [ReactNative](#reactnative)
 * [Ruby](#ruby)
 * [Scala](#scala)
@@ -111,6 +112,10 @@ __55 notes so far. Last added:__ [Update documents: updateOne() & updateMany()](
 ## Python
 
 * [Manage different Python versions with Anaconda](Python/manage-different-python-versions-with-anaconda.md)
+
+## R
+
+* [Improve font rendering in RStudio for Mac](R/improve-font-rendering-in-rstudio-for-mac.md)
 
 ## ReactNative
 
