@@ -112,3 +112,6 @@ _Some truncated content here..._
 * A  R/improve-font-rendering-in-rstudio-for-mac-2.png
 * A  R/improve-font-rendering-in-rstudio-for-mac.md
 
+## 2018-10-04 (10:15)
+* M  R/improve-font-rendering-in-rstudio-for-mac.md
+

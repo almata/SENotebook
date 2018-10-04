@@ -11,7 +11,7 @@ Then, scroll down until we find a `link` line like this one:
       href="http://127.0.0.1:43322/rstudio/3AAAF56BE4B500705B77183473800771.cache.css">
 ```
 
-Finally, we go to where that CSS file is and change some style. In my case, I need to go to `/Applications/RStudio.app/Contents/Resources/www/rstudio`. And there I just need to add this at the top:
+Finally, we go to where that CSS file is and change some style. In my case, I need to go to `/Applications/RStudio.app/Contents/Resources/www/rstudio`. And there I just need to add this at the top of the `3AAAF5...771` CSS file:
 
 ```css
 div {
