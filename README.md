@@ -7,13 +7,14 @@ When you have been working with different technologies and programming languages
 
 
 
-__58 notes so far. Last added:__ [Improve font rendering in RStudio for Mac](R/improve-font-rendering-in-rstudio-for-mac.md)
+__59 notes so far. Last added:__ [List of useful shortcuts for Flutter development in Android Studio](Flutter/list-of-useful-shortcuts-for-flutter-development-in-android-studio.md)
 
 ## Categories
 
 * [Android](#android)
 * [Bash](#bash)
 * [C](#c)
+* [Flutter](#flutter)
 * [Genomics](#genomics)
 * [Git](#git)
 * [HTML](#html)
@@ -45,6 +46,10 @@ __58 notes so far. Last added:__ [Improve font rendering in RStudio for Mac](R/i
 ## C
 
 * [Basic introduction to pointers in C](C/basic-introduction-to-pointers-in-c.md)
+
+## Flutter
+
+* [List of useful shortcuts for Flutter development in Android Studio](Flutter/list-of-useful-shortcuts-for-flutter-development-in-android-studio.md)
 
 ## Genomics
 

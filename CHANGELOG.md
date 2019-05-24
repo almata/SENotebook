@@ -115,3 +115,6 @@ _Some truncated content here..._
 ## 2018-10-04 (10:15)
 * M  R/improve-font-rendering-in-rstudio-for-mac.md
 
+## 2019-05-24 (18:07)
+* A  Flutter/list-of-useful-shortcuts-for-flutter-development-in-android-studio.md
+
