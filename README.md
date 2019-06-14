@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__59 notes so far. Last added:__ [List of useful shortcuts for Flutter development in Android Studio](Flutter/list-of-useful-shortcuts-for-flutter-development-in-android-studio.md)
+__60 notes so far. Last added:__ [Fix problem with squared brackets in PyCharm](Python/fix-problem-with-squared-brackets-in-pycharm.md)
 
 ## Categories
 
@@ -116,6 +116,7 @@ __59 notes so far. Last added:__ [List of useful shortcuts for Flutter developme
 
 ## Python
 
+* [Fix problem with squared brackets in PyCharm](Python/fix-problem-with-squared-brackets-in-pycharm.md)
 * [Manage different Python versions with Anaconda](Python/manage-different-python-versions-with-anaconda.md)
 
 ## R

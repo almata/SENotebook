@@ -118,3 +118,6 @@ _Some truncated content here..._
 ## 2019-05-24 (18:07)
 * A  Flutter/list-of-useful-shortcuts-for-flutter-development-in-android-studio.md
 
+## 2019-06-14 (18:11)
+* A  Python/fix-problem-with-squared-brackets-in-pycharm.md
+
