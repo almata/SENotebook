@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__60 notes so far. Last added:__ [Fix problem with squared brackets in PyCharm](Python/fix-problem-with-squared-brackets-in-pycharm.md)
+__61 notes so far. Last added:__ [Some notes on Jekyll](Jekyll/some-notes-on-jekyll.md)
 
 ## Categories
 
@@ -21,6 +21,7 @@ __60 notes so far. Last added:__ [Fix problem with squared brackets in PyCharm](
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Jekyll](#jekyll)
 * [Literature](#literature)
 * [MongoDB](#mongodb)
 * [Objective-C](#objective-c)
@@ -80,6 +81,10 @@ __60 notes so far. Last added:__ [Fix problem with squared brackets in PyCharm](
 ## JavaScript
 
 * [Get element's position in array given a key-value pair](JavaScript/get-elements-position-in-array-given-a-key-value-pair.md)
+
+## Jekyll
+
+* [Some notes on Jekyll](Jekyll/some-notes-on-jekyll.md)
 
 ## Literature
 
