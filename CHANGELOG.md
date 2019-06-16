@@ -124,3 +124,6 @@ _Some truncated content here..._
 ## 2019-06-16 (10:44)
 * A  Jekyll/some-notes-on-jekyll.md
 
+## 2019-06-16 (10:53)
+* A  MySQL/some-notes-on-mysql.md
+

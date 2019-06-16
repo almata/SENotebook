@@ -7,7 +7,7 @@ When you have been working with different technologies and programming languages
 
 
 
-__61 notes so far. Last added:__ [Some notes on Jekyll](Jekyll/some-notes-on-jekyll.md)
+__62 notes so far. Last added:__ [Some notes on MySQL](MySQL/some-notes-on-mysql.md)
 
 ## Categories
 
@@ -24,6 +24,7 @@ __61 notes so far. Last added:__ [Some notes on Jekyll](Jekyll/some-notes-on-jek
 * [Jekyll](#jekyll)
 * [Literature](#literature)
 * [MongoDB](#mongodb)
+* [MySQL](#mysql)
 * [Objective-C](#objective-c)
 * [Programming](#programming)
 * [Python](#python)
@@ -100,6 +101,10 @@ __61 notes so far. Last added:__ [Some notes on Jekyll](Jekyll/some-notes-on-jek
 * [Insert documents: insertOne() & insertMany()](MongoDB/insert-documents-insertone-insertmany.md)
 * [Select documents: find(), pretty(), count(), distinct() ](MongoDB/select-documents-find-pretty-count-distinct.md)
 * [Update documents: updateOne() & updateMany()](MongoDB/update-documents-updateone-updatemany.md)
+
+## MySQL
+
+* [Some notes on MySQL](MySQL/some-notes-on-mysql.md)
 
 ## Objective-C
 
